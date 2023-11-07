@@ -7,7 +7,6 @@ body,html {
     background: url("Orchestre.jpg") center;
     background-size: cover;
     background-repeat: no-repeat;
-    filter: grayscale(1);
 }
 .keys {
     display: flex;
@@ -43,5 +42,5 @@ body,html {
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
-    color: #8711b6;
+    color: #ffffff;
 }
